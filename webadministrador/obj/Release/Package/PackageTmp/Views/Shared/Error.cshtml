@@ -1,0 +1,13 @@
+﻿@model Modelo.c3_dominio.entidad.servicios.ContactoServicio
+@{
+    ViewBag.Title = "Error";
+}
+
+<div class="callout callout-danger">
+    <h4>Error!</h4>
+    <p>Ha ocurrido un error interno, es probable que la pagina haya sufrido alguna inconsistencia de datos pero no es para
+    preocuparse vuelva a cargar la pagina desde el inicio. Si el error persiste no dude en comunicarse con los desarrolladores de esta pagina.</p>
+    <p><b>Detalle del Error.</b><br />
+    @Model.mensajeError</p>
+</div>
+

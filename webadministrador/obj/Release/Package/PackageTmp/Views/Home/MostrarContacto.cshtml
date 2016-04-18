@@ -1,0 +1,41 @@
+﻿@model Modelo.c3_dominio.entidad.servicios.ContactoServicio
+@{
+    ViewBag.Title = "Contactos";
+}
+<div class="row">
+    <div class="col-md-6">
+        <div class="box">
+            <div class="box-header with-border">
+                <h3 class="box-title">Detalle del Mensaje</h3>
+            </div><!-- /.box-header -->
+            <div class="box-body">
+                <table class="table table-bordered">
+                    <tr>
+                        <td>Contacto:</td>
+                        <td>@Model.nombrecompletocontacto()</td>
+                    </tr>
+                    <tr>
+                        <td>Empresa:</td>
+                        <td><b>@Model.contacto.empresaContacto</b></td>
+                    </tr>
+                    <tr>
+                        <td>Telefono:</td>
+                        <td>@Model.contacto.telefonoContacto</td>
+                    </tr>
+                    <tr>
+                        <td>Correo:</td>
+                        <td><a>@Model.contacto.correoContacto</a></td>
+                    </tr>
+                    <tr>
+                        <td>Comentario:</td>
+                        <td HEIGHT="90">@Model.contacto.comentarioContacto</td>
+                    </tr>
+                </table>
+            </div><!-- /.box-body -->
+            <div class="box-footer">
+                @Html.ActionLink("Regresar","Index",null,htmlAttributes: new {@class="btn btn-primary" })
+            </div>
+        </div><!-- /.box -->
+       
+    </div>
+    </div>

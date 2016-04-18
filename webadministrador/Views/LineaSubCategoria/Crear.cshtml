@@ -1,0 +1,31 @@
+﻿@model Modelo.c3_dominio.entidad.servicios.ContactoServicio
+@{
+    ViewBag.Title = "Crear Linea Sub Categoria";
+}
+<div class="row">
+    <div class="col-md-6">
+        <div class="box box-primary">
+            <div class="box-header with-border">
+                <h3 class="box-title">Agregar Lineas de Sub Familia a <b>@Model.subCategoria.nombresubcategoria</b></h3>
+            </div>
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+                <div class="box-body">
+                    @Html.EditorFor(model => model.lineasubcategoria.codigosubcategoria, new { htmlAttributes = new { @type = "hidden" } })
+                    <div class="form-group">
+                        <div class="col-md-2 control-label">
+                            <label>Nombre:</label>
+                        </div>
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.lineasubcategoria.nombrelinea, new { htmlAttributes = new { @class = "form-control" } })
+                        </div>
+                    </div>
+                </div>
+                <div class="box-footer">
+                    <button type="submit" class="btn btn-primary">Crear</button>
+                </div>
+            }
+        </div>
+    </div>
+</div>

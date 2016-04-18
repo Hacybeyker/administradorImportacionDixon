@@ -1,0 +1,51 @@
+﻿@model Modelo.c3_dominio.entidad.servicios.ContactoServicio
+@{
+    ViewBag.Title = "Editar";
+}
+<div class="row">
+    <div class="col-md-6">
+        <div class="box box-primary">
+            <div class="box-header with-border">
+                <h3 class="box-title">Editar el Producto de la Linea</h3>
+            </div>
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+                <div class="box-body">
+                    @Html.EditorFor(model => model.producto.codigoProducto, new { htmlAttributes = new { @type = "hidden" } })
+                    @Html.EditorFor(model => model.producto.codigolineasubcategoria, new { htmlAttributes = new { @type = "hidden" } })
+                    <div class="form-group">
+                        <div class="col-md-2 control-label">
+                            <label>Nombre:</label>
+                        </div>
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.producto.nombreProducto, new { htmlAttributes = new { @class = "form-control" } })
+                        </div>
+                        <div class="col-md-2 control-label">
+                            <label>Precio:</label>
+                        </div>
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.producto.precioProducto, new { htmlAttributes = new { @class = "form-control" } })
+                        </div>
+                        <div class="col-md-2 control-label">
+                            <label>Descripción:</label>
+                        </div>
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.producto.descripcionProducto, new { htmlAttributes = new { @class = "form-control" } })
+                        </div>
+                        <div class="col-md-2 control-label">
+                            <label>Detalle:</label>
+                        </div>
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.producto.detalleProducto, new { htmlAttributes = new { @class = "form-control" } })
+                        </div>
+                    </div>
+                </div>
+                <div class="box-footer">
+                    <button type="submit" class="btn btn-primary">Editar</button>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+

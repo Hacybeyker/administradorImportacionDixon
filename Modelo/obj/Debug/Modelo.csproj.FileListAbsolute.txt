@@ -1,0 +1,39 @@
+c:\users\hacybeyker\documents\visual studio 2015\Projects\WebCatalogo\Modelo\bin\Debug\Modelo.dll
+c:\users\hacybeyker\documents\visual studio 2015\Projects\WebCatalogo\Modelo\bin\Debug\Modelo.pdb
+c:\users\hacybeyker\documents\visual studio 2015\Projects\WebCatalogo\Modelo\obj\Debug\Modelo.dll
+c:\users\hacybeyker\documents\visual studio 2015\Projects\WebCatalogo\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Hacybeyker\Documents\Visual Studio 2015\Projects\WebCatalogo\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Hacybeyker\Documents\Visual Studio 2015\Projects\WebImportacionesDixon\Modelo\bin\Debug\Modelo.dll
+C:\Users\Hacybeyker\Documents\Visual Studio 2015\Projects\WebImportacionesDixon\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Hacybeyker\Documents\Visual Studio 2015\Projects\WebImportacionesDixon\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Hacybeyker\Documents\Visual Studio 2015\Projects\WebImportacionesDixon\Modelo\obj\Debug\Modelo.dll
+C:\Users\Hacybeyker\Documents\Visual Studio 2015\Projects\WebImportacionesDixon\Modelo\obj\Debug\Modelo.pdb
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webimportacionesdixon\Modelo\bin\Debug\Modelo.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webimportacionesdixon\Modelo\bin\Debug\Modelo.pdb
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webimportacionesdixon\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webimportacionesdixon\Modelo\obj\Debug\Modelo.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webimportacionesdixon\Modelo\obj\Debug\Modelo.pdb
+F:\COMUNIDAD MICROSOFT\webadministrador\Modelo\bin\Debug\Modelo.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\Modelo\bin\Debug\Modelo.pdb
+F:\COMUNIDAD MICROSOFT\webadministrador\Modelo\obj\Debug\Modelo.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\Modelo\obj\Debug\Modelo.pdb
+F:\COMUNIDAD MICROSOFT\webadministrador\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\Modelo\bin\Debug\Modelo.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\Modelo\bin\Debug\Modelo.pdb
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\Modelo\obj\Debug\Modelo.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\Modelo\obj\Debug\Modelo.pdb
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\Modelo\bin\Debug\Modelo.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\Modelo\bin\Debug\Modelo.pdb
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\Modelo\obj\Debug\Modelo.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\Modelo\obj\Debug\Modelo.pdb
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\Modelo\bin\Debug\Modelo.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\Modelo\bin\Debug\Modelo.pdb
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\Modelo\obj\Debug\Modelo.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\Modelo\obj\Debug\Modelo.pdb
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\Modelo\bin\Debug\Modelo.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\Modelo\obj\Debug\Modelo.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache

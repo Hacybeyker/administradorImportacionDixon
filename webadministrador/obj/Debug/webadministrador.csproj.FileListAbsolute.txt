@@ -1,0 +1,355 @@
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\roslyn\csc.exe
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\roslyn\System.Collections.Immutable.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\roslyn\System.Reflection.Metadata.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\roslyn\vbc.exe
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\roslyn\VBCSCompiler.exe
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\roslyn\VBCSCompiler.exe.config
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\webadministrador.dll.config
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\webadministrador.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\webadministrador.pdb
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Antlr3.Runtime.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\EntityFramework.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\EntityFramework.SqlServer.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.AspNet.Identity.Core.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.Owin.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.Owin.Security.Cookies.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.Owin.Security.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.Owin.Security.Facebook.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.Owin.Security.Google.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.Owin.Security.OAuth.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.Owin.Security.Twitter.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.Web.Infrastructure.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Newtonsoft.Json.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Owin.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\System.Web.Helpers.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\System.Web.Mvc.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\System.Web.Optimization.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\System.Web.Razor.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\System.Web.WebPages.Deployment.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\System.Web.WebPages.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\System.Web.WebPages.Razor.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\WebGrease.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\System.Web.Helpers.xml
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\System.Web.Mvc.xml
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\System.Web.Optimization.xml
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\System.Web.Razor.xml
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\System.Web.WebPages.xml
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\System.Web.WebPages.Deployment.xml
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\System.Web.WebPages.Razor.xml
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Antlr3.Runtime.pdb
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Newtonsoft.Json.xml
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\EntityFramework.xml
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\EntityFramework.SqlServer.xml
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.AspNet.Identity.Core.xml
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.Owin.xml
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.Owin.Security.xml
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.Owin.Security.Facebook.xml
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.Owin.Security.Cookies.xml
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.Owin.Security.OAuth.xml
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.Owin.Security.Google.xml
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.Owin.Security.Twitter.xml
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\obj\Debug\webadministrador.csprojResolveAssemblyReference.cache
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\obj\Debug\webadministrador.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\obj\Debug\webadministrador.pdb
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Modelo.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\webadministrador\bin\Modelo.pdb
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\roslyn\csc.exe
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\roslyn\System.Collections.Immutable.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\roslyn\System.Reflection.Metadata.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\roslyn\vbc.exe
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\roslyn\VBCSCompiler.exe
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\roslyn\VBCSCompiler.exe.config
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\webadministrador.dll.config
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\webadministrador.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\webadministrador.pdb
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Antlr3.Runtime.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\EntityFramework.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\EntityFramework.SqlServer.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.Owin.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.Owin.Security.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.Owin.Security.Google.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.Web.Infrastructure.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Modelo.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Newtonsoft.Json.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Owin.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\System.Web.Helpers.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\System.Web.Mvc.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\System.Web.Optimization.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\System.Web.Razor.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\System.Web.WebPages.Deployment.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\System.Web.WebPages.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\System.Web.WebPages.Razor.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\WebGrease.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Modelo.pdb
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\System.Web.Helpers.xml
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\System.Web.Mvc.xml
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\System.Web.Optimization.xml
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\System.Web.Razor.xml
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\System.Web.WebPages.xml
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\System.Web.WebPages.Deployment.xml
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\System.Web.WebPages.Razor.xml
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Antlr3.Runtime.pdb
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Newtonsoft.Json.xml
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\EntityFramework.xml
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\EntityFramework.SqlServer.xml
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.Owin.xml
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.Owin.Security.xml
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.Owin.Security.Google.xml
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\obj\Debug\webadministrador.csprojResolveAssemblyReference.cache
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\obj\Debug\webadministrador.dll
+D:\Petter\COMUNIDAD MICROSOFT\PAGINA WEB\PROYECTO WEB\webadministrador\webadministrador\obj\Debug\webadministrador.pdb
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\roslyn\csc.exe
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\roslyn\System.Collections.Immutable.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\roslyn\System.Reflection.Metadata.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\roslyn\vbc.exe
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\roslyn\VBCSCompiler.exe
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\roslyn\VBCSCompiler.exe.config
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\webadministrador.dll.config
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\webadministrador.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\webadministrador.pdb
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Antlr3.Runtime.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\EntityFramework.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\EntityFramework.SqlServer.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.AspNet.Identity.Core.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.Cookies.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.Facebook.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.Google.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.OAuth.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.Twitter.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.Web.Infrastructure.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Modelo.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Newtonsoft.Json.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Owin.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\System.Web.Helpers.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\System.Web.Mvc.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\System.Web.Optimization.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\System.Web.Razor.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\System.Web.WebPages.Deployment.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\System.Web.WebPages.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\System.Web.WebPages.Razor.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\WebGrease.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Modelo.pdb
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\System.Web.Helpers.xml
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\System.Web.Mvc.xml
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\System.Web.Optimization.xml
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\System.Web.Razor.xml
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\System.Web.WebPages.xml
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\System.Web.WebPages.Deployment.xml
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\System.Web.WebPages.Razor.xml
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Antlr3.Runtime.pdb
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Newtonsoft.Json.xml
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\EntityFramework.xml
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\EntityFramework.SqlServer.xml
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.AspNet.Identity.Core.xml
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.xml
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.xml
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.Facebook.xml
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.Cookies.xml
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.OAuth.xml
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.Google.xml
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.Twitter.xml
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\obj\Debug\webadministrador.csprojResolveAssemblyReference.cache
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\obj\Debug\webadministrador.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\webadministrador\obj\Debug\webadministrador.pdb
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\roslyn\csc.exe
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\roslyn\System.Collections.Immutable.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\roslyn\System.Reflection.Metadata.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\roslyn\vbc.exe
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\roslyn\VBCSCompiler.exe
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\roslyn\VBCSCompiler.exe.config
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\webadministrador.dll.config
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\webadministrador.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\webadministrador.pdb
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Antlr3.Runtime.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\EntityFramework.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\EntityFramework.SqlServer.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.AspNet.Identity.Core.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.Cookies.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.Facebook.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.Google.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.OAuth.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.Twitter.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.Web.Infrastructure.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Modelo.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Newtonsoft.Json.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Owin.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\System.Web.Helpers.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\System.Web.Mvc.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\System.Web.Optimization.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\System.Web.Razor.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\System.Web.WebPages.Deployment.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\System.Web.WebPages.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\System.Web.WebPages.Razor.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\WebGrease.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Modelo.pdb
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\System.Web.Helpers.xml
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\System.Web.Mvc.xml
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\System.Web.Optimization.xml
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\System.Web.Razor.xml
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\System.Web.WebPages.xml
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\System.Web.WebPages.Deployment.xml
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\System.Web.WebPages.Razor.xml
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Antlr3.Runtime.pdb
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Newtonsoft.Json.xml
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\EntityFramework.xml
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\EntityFramework.SqlServer.xml
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.AspNet.Identity.Core.xml
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.xml
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.xml
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.Facebook.xml
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.Cookies.xml
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.OAuth.xml
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.Google.xml
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.Twitter.xml
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\obj\Debug\webadministrador.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\obj\Debug\webadministrador.pdb
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\webadministrador\obj\Debug\webadministrador.csprojResolveAssemblyReference.cache
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\roslyn\csc.exe
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\roslyn\vbc.exe
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\webadministrador.dll.config
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\webadministrador.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\webadministrador.pdb
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Antlr3.Runtime.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\EntityFramework.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\EntityFramework.SqlServer.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.Owin.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.Owin.Security.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Modelo.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Newtonsoft.Json.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Owin.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\System.Web.Helpers.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\System.Web.Mvc.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\System.Web.Optimization.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\System.Web.Razor.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\System.Web.WebPages.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\WebGrease.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Modelo.pdb
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\System.Web.Helpers.xml
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\System.Web.Mvc.xml
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\System.Web.Optimization.xml
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\System.Web.Razor.xml
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\System.Web.WebPages.xml
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Antlr3.Runtime.pdb
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Newtonsoft.Json.xml
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\EntityFramework.xml
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\EntityFramework.SqlServer.xml
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.Owin.xml
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.Owin.Security.xml
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\obj\Debug\webadministrador.csprojResolveAssemblyReference.cache
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\obj\Debug\webadministrador.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\webadministrador\obj\Debug\webadministrador.pdb

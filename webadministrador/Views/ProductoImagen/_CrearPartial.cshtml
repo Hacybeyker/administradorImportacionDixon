@@ -1,0 +1,41 @@
+﻿@model Modelo.c3_dominio.entidad.servicios.ContactoServicio
+@{
+    ViewBag.Title = "Crear Imagen";
+}
+<div class="row">
+    <div class="col-md-6">
+        <div class="box box-primary">
+            <div class="box-header with-border">
+                <h3 class="box-title">Agregar Imagen al Producto <b>@Model.producto.nombreProducto</b></h3>
+            </div>
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+                <div class="box-body">
+                    @Html.EditorFor(model => model.imagenProducto.codigoproducto, new { htmlAttributes = new { @type = "hidden" } })
+                    <div class="form-group">
+                        <div class="col-md-2 control-label">
+                            <label>Nombre:</label>
+                        </div>
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.imagenProducto.nombreimagen, new { htmlAttributes = new { @class = "form-control" } })
+                        </div>
+                        <div class="col-md-2 control-label">
+                            <label>URL:</label>
+                        </div>
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.imagenProducto.urlimagen, new { htmlAttributes = new { @class = "form-control" } })
+                        </div>
+                    </div>
+                    <small>Se recomienda que las imágenes no estén pixeleadas y que estén del mismo tamaño.</small>
+
+                </div>
+                <div class="box-footer">
+                    <button type="submit" class="btn btn-primary">Crear</button>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+

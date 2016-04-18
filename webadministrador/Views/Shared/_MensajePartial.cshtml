@@ -1,0 +1,37 @@
+﻿@model Modelo.c3_dominio.entidad.servicios.ContactoServicio
+<li class="dropdown messages-menu">
+    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+        <i class="fa fa-envelope-o"></i>
+        <span class="label label-danger">@Model.cantidadMensajeContacto()</span>
+    </a>
+    <ul class="dropdown-menu">
+        <li class="header">Nuevos Mensajes</li>
+        <li>
+            <!-- inner menu: contains the actual data -->
+            <ul class="menu">
+                @if(@Model.cantidadMensajeContacto()>0){
+                foreach (var item in Model.listaContacto)
+                    {
+                        if (!item.visto)
+                        {
+                            <li>
+                                <!-- start message -->
+                                <a href="@Url.Action("MostrarContacto", "Home", new {codigoContacto=item.codigoContacto})">
+                                    <h4>
+                                        @item.nombreContacto
+                                    </h4>
+                                    <p>@item.comentarioContacto</p>
+                                </a>
+                            </li><!-- end message -->
+                        }
+                    }
+                }
+                else
+                {
+                    <li><a><p>No hay mensajes nuevos.</p></a></li>
+                }
+            </ul>
+        </li>
+        <li class="footer"><a href="@Url.Action("Index", "Home")">Todos los mensajes</a></li>
+    </ul>
+</li>

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1AE29637-86C3-42D2-BBBC-48E727D4292A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Modelo</RootNamespace>
+    <AssemblyName>Modelo</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http.WebRequest" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="c2_aplicacion\GestionarCategoriaServicio.cs" />
+    <Compile Include="c2_aplicacion\GestionarContactoServicio.cs" />
+    <Compile Include="c2_aplicacion\GestionarImagenProductoServicio.cs" />
+    <Compile Include="c2_aplicacion\GestionarLineaSubCategoriaServicio.cs" />
+    <Compile Include="c2_aplicacion\GestionarProductoServicio.cs" />
+    <Compile Include="c2_aplicacion\GestionarSubCategoriaServicio.cs" />
+    <Compile Include="c2_aplicacion\GestionarUsuarioServicio.cs" />
+    <Compile Include="c3_dominio\contrato\ICategoriaDAO.cs" />
+    <Compile Include="c3_dominio\contrato\IContactoDAO.cs" />
+    <Compile Include="c3_dominio\contrato\ILineaSubCategoriaDAO.cs" />
+    <Compile Include="c3_dominio\contrato\IProductoDAO.cs" />
+    <Compile Include="c3_dominio\contrato\IImagenProductoDAO.cs" />
+    <Compile Include="c3_dominio\contrato\ISubCategoriaDAO.cs" />
+    <Compile Include="c3_dominio\contrato\IUsuarioDAO.cs" />
+    <Compile Include="c3_dominio\entidad\Categoria.cs" />
+    <Compile Include="c3_dominio\entidad\Contacto.cs" />
+    <Compile Include="c3_dominio\entidad\ImagenProducto.cs" />
+    <Compile Include="c3_dominio\entidad\LineaSubCategoria.cs" />
+    <Compile Include="c3_dominio\entidad\Producto.cs" />
+    <Compile Include="c3_dominio\entidad\servicios\ContactoServicio.cs" />
+    <Compile Include="c3_dominio\entidad\SubCategoria.cs" />
+    <Compile Include="c3_dominio\entidad\Usuario.cs" />
+    <Compile Include="c4_persistencia\GestorODBC.cs" />
+    <Compile Include="c4_persistencia\sqlserver\CategoriaDAOSqlServer.cs" />
+    <Compile Include="c4_persistencia\sqlserver\ConexionSqlServer.cs" />
+    <Compile Include="c4_persistencia\sqlserver\ContactoDAOSqlServer.cs" />
+    <Compile Include="c4_persistencia\sqlserver\ImagenProductoDAOSqlServer.cs" />
+    <Compile Include="c4_persistencia\sqlserver\LineaSubCategoriaDAOSqlServer.cs" />
+    <Compile Include="c4_persistencia\sqlserver\ProductoDAOSqlServer.cs" />
+    <Compile Include="c4_persistencia\sqlserver\SubCategoriaDAOSqlServer.cs" />
+    <Compile Include="c4_persistencia\sqlserver\UsuarioDAOSqlServer.cs" />
+    <Compile Include="c5_transversal\excepcion\ExcepcionReglaNegocio.cs" />
+    <Compile Include="c5_transversal\excepcion\ExcepcionSQL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

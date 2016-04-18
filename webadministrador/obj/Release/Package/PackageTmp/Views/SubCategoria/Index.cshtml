@@ -1,0 +1,41 @@
+﻿@model Modelo.c3_dominio.entidad.servicios.ContactoServicio
+@{
+    ViewBag.Title = "Sub Familia";
+}
+
+<div class="row">
+    <div class="col-xs-12">
+        <div class="box box-primary">
+            <div class="box-header">
+                <i class="ion ion-clipboard"></i>
+                <h3 class="box-title">Lista de Sub Familias de <b>@Model.categoria.nombrecategoria</b></h3>
+            </div><!-- /.box-header -->
+            <div class="box-body">
+                <ul class="todo-list">
+                @foreach (var item in Model.listaSubCategoria)
+                {
+                    <li>
+                        <!-- drag handle -->
+                        <span class="handle">
+                            <i class="fa fa-ellipsis-v"></i>
+                            <i class="fa fa-ellipsis-v"></i>
+                        </span>
+                        <!-- todo text -->
+                        <span>@Html.DisplayFor(modelItem => item.nombresubcategoria)</span>
+                        <!-- General tools such as edit or delete-->
+                        <div class="tools">
+                            <a href="@Url.Action("Index","LineaSubCategoria", new {codigosubcategoria= item.codigosubcategoria})" title="Ver Linea Sub Familias"><i class="fa fa-files-o"></i></a>
+                            <a href="@Url.Action("Editar","SubCategoria", new {codigo= item.codigosubcategoria})" title="Editar"><i class="fa fa-edit"></i></a>
+                            <a href="@Url.Action("Eliminar","SubCategoria", new { codigo = item.codigosubcategoria })" title="Eliminar"><i class="fa fa-trash-o"></i></a>
+                        </div>
+                    </li>
+                }
+                </ul>
+            </div><!-- /.box-body -->
+            <div class="box-footer clearfix no-border">
+                <button class="btn btn-default pull-right" onClick="location.href='@Url.Action("Crear", "SubCategoria", new {codigocategoria=Model.categoria.codigocategoria})'"><i class="fa fa-plus"></i> Agregar</button>
+                <button class="btn btn-default pull-left" onClick="location.href='@Url.Action("Index", "Categoria")'"><i class="fa fa-angle-left"></i> Atras</button>
+            </div>
+        </div>
+    </div>
+</div>

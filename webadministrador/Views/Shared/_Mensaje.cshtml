@@ -1,0 +1,16 @@
+﻿@model Modelo.c3_dominio.entidad.servicios.ContactoServicio
+    @if (Model.mensajeError.IsEmpty())
+    {
+        if (!Model.mensajecorrecto.IsEmpty())
+        {
+                <div class="callout callout-success" style="margin-bottom: 0!important;">
+                    <b>Nota: </b>@Model.mensajecorrecto
+                </div>
+        }
+    } else
+    {
+            <div class="callout callout-warning" style="margin-bottom: 0!important;">
+                <b>Nota: </b>@Model.mensajeError
+            </div>
+     }
+

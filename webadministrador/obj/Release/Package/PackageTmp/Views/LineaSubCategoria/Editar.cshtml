@@ -1,0 +1,33 @@
+﻿@model Modelo.c3_dominio.entidad.servicios.ContactoServicio
+
+@{
+    ViewBag.Title = "Editar";
+}
+<div class="row">
+    <div class="col-md-5">
+        <div class="box box-primary">
+            <div class="box-header with-border">
+                <h3 class="box-title">Editar Linea Sub Familia de Categoria</h3>
+            </div>
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()
+                <div class="box-body">
+                    @Html.EditorFor(model => model.lineasubcategoria.codigosubcategoria, new { htmlAttributes = new { @type = "hidden" } })
+                    @Html.EditorFor(model => model.lineasubcategoria.codigolinea, new { htmlAttributes = new { @type = "hidden" } })
+                    <div class="form-group">
+                        <div class="col-md-2 control-label">
+                            <label>Nombre:</label>
+                        </div>
+                        <div class="col-md-10">
+                            @Html.EditorFor(model => model.lineasubcategoria.nombrelinea, new { htmlAttributes = new { @class = "form-control" } })
+                        </div>
+                    </div>
+                </div>
+                <div class="box-footer">
+                    <button type="submit" class="btn btn-primary">Editar</button>
+                </div>
+            }
+        </div>
+    </div>
+</div>

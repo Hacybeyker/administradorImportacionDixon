@@ -1,0 +1,16 @@
+F:\COMUNIDAD MICROSOFT\webadministrador\Modelo\bin\Release\Modelo.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\Modelo\bin\Release\Modelo.pdb
+F:\COMUNIDAD MICROSOFT\webadministrador\Modelo\obj\Release\Modelo.dll
+F:\COMUNIDAD MICROSOFT\webadministrador\Modelo\obj\Release\Modelo.pdb
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\Modelo\bin\Release\Modelo.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\Modelo\bin\Release\Modelo.pdb
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\Modelo\obj\Release\Modelo.dll
+F:\COMUNIDAD MICROSOFT\webadminlogin\administrador\Modelo\obj\Release\Modelo.pdb
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\Modelo\bin\Release\Modelo.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\Modelo\bin\Release\Modelo.pdb
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\Modelo\obj\Release\Modelo.dll
+F:\COMUNIDAD MICROSOFT\ProyectoAdministrador\webadminlogin\administrador\Modelo\obj\Release\Modelo.pdb
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\Modelo\bin\Release\Modelo.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\Modelo\bin\Release\Modelo.pdb
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\Modelo\obj\Release\Modelo.dll
+C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\Modelo\obj\Release\Modelo.pdb
