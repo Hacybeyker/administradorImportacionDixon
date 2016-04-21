@@ -73,6 +73,21 @@ namespace Modelo.c2_aplicacion
 
         }
 
+        public void eliminarContacto(int codigoContacto)
+        {
+            try
+            {
+                gestorODBC.abrirConexion();
+                contactoDAO.eliminarContacto(codigoContacto);
+                gestorODBC.cerrarConexion();
+            }
+            catch (Exception e)
+            {
+                gestorODBC.cerrarConexion();
+                throw e;
+            }
+        }
+
         public void agregarVisto(Contacto contacto)
         {
             try

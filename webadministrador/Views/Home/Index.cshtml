@@ -28,7 +28,12 @@
                                                 <td class="mailbox-star"><a href="@Url.Action("MostrarContacto", "Home", new { codigoContacto = item.codigoContacto })"><i class="fa fa-star-o text-yellow"></i></a></td>
                                                 <td class="mailbox-name"><b>@item.nombreContacto<b></td>
                                                 <td class="mailbox-subject">@item.comentarioContacto</td>
-                                                <td class="mailbox-subject"><a>@item.correoContacto</a></td>
+                                                <td class="mailbox-subject"><a href="mailto:@item.correoContacto">@item.correoContacto</a></td>
+                                                <td>
+                                                    <div class="btn-group">
+                                                        <button class="btn btn-default btn-sm" onclick="location.href='@Url.Action("EliminarContacto","Home", new {codigoContacto= item.codigoContacto})'" title="Eliminar"><i class="fa fa-trash-o"></i></button>
+                                                    </div>
+                                                </td>
                                             </tr>
                                         }
                                         else
@@ -37,8 +42,13 @@
                                                 <td class="mailbox-star"><a href="@Url.Action("MostrarContacto", "Home", new { codigoContacto = item.codigoContacto })"><i class="fa fa-star text-yellow"></i></a></td>
                                                 <td class="mailbox-name"><b>@item.nombreContacto<b></td>
                                                 <td class="mailbox-subject">@item.comentarioContacto</td>
-                                                <td class="mailbox-subject"><a>@item.correoContacto<small class="label pull-right bg-green">nuevo</small></a></td>
-                                            </tr>
+                                                <td class="mailbox-subject"><a href="mailto:@item.correoContacto">@item.correoContacto<small class="label pull-right bg-green">nuevo</small></a></td>                                                
+                                                    <td>
+                                                        <div class="btn-group">
+                                                            <button class="btn btn-default btn-sm" onclick="location.href='@Url.Action("EliminarContacto","Home", new {codigoContacto= item.codigoContacto})'" title="Eliminar"><i class="fa fa-trash-o"></i></button>
+                                                        </div>
+                                                    </td>
+</tr>
                                         }
                                     }
 

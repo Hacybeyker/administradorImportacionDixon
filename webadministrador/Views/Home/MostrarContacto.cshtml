@@ -33,7 +33,10 @@
                 </table>
             </div><!-- /.box-body -->
             <div class="box-footer">
-                @Html.ActionLink("Regresar","Index",null,htmlAttributes: new {@class="btn btn-primary" })
+                @Html.ActionLink("Regresar","Index",null,htmlAttributes: new {@class="btn btn-primary"})
+                <!-- Para eliminar al dar regresar
+                    <a href="@Url.Action("EliminarContacto", "Home", new { codigoContacto = @Model.contacto.codigoContacto })">Regresar</a>
+                -->
             </div>
         </div><!-- /.box -->
        

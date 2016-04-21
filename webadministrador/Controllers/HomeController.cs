@@ -41,6 +41,13 @@ namespace webadministrador.Controllers
             ContactoServicio contactoCategoria = new ContactoServicio(gestionarContactoServicio.listaContactos(),gestionarContactoServicio.buscarContacto(codigocontacto),gestionarCategoriaServicio.listarCategorias());
             return View(contactoCategoria);
         }
+
+        public ActionResult EliminarContacto(int codigoContacto)
+        {
+            gestionarContactoServicio.eliminarContacto(codigoContacto);
+            ContactoServicio contactoCategoria = new ContactoServicio(gestionarContactoServicio.listaContactos(), gestionarContactoServicio.buscarContacto(codigoContacto), gestionarCategoriaServicio.listarCategorias());
+            return RedirectToAction("Index","Home");
+        }
        
 
     }

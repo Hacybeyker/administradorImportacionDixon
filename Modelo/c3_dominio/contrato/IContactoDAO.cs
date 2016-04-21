@@ -12,6 +12,7 @@ namespace Modelo.c3_dominio.contrato
         void crearContacto(Contacto contacto);
         void agregarVisto(Contacto contacto);
         Contacto buscarContacto(int codigoContacto);
+        void eliminarContacto(int codigoContacto);
         List<Contacto> listaContactos();
         List<Contacto> listaContactoNoVisto();
         int cantidadContactosNoVistos();

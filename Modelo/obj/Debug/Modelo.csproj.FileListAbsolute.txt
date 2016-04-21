@@ -36,4 +36,3 @@ C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\Modelo\bin
 C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\Modelo\bin\Debug\Modelo.pdb
 C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\Modelo\obj\Debug\Modelo.dll
 C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\Modelo\obj\Debug\Modelo.pdb
-C:\Users\Hacybeyker\Desktop\Nueva carpeta\Nueva carpeta\administrador\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache

@@ -40,7 +40,7 @@ namespace Modelo.c4_persistencia.sqlserver
             try
             {
                 Contacto contacto = null;
-                string consultaSQL = "SELECT codigocontacto, nombrecontacto, apellidoscontacto, empresacontacto, telefonocontacto, correocontacto, comentariocontacto, vistocontacto FROM contacto where codigocontacto=@codigocontacto";
+                string consultaSQL = "SELECT codigocontacto, nombrecontacto, apellidoscontacto, empresacontacto, telefonocontacto, correocontacto, comentariocontacto, vistocontacto FROM contacto where codigocontacto=@codigocontacto and estadocontacto = 1";
                 SqlDataReader resultado;
                 SqlCommand sentencia;
                 sentencia = gestorODBC.prepararSentencia(consultaSQL);
@@ -64,6 +64,23 @@ namespace Modelo.c4_persistencia.sqlserver
             catch (Exception)
             {
                 throw ExcepcionSQL.crearErrorConsultar();
+            }
+        }
+
+        public void eliminarContacto(int codigoContacto)
+        {
+            try
+            {
+                //string consultaSQL = "delete from contacto where codigocontacto = @codigocontacto";
+                string consultaSQL = "update contacto set estadocontacto = 0 where codigocontacto = @codigocontacto";
+                SqlCommand sentencia;
+                sentencia = gestorODBC.prepararSentencia(consultaSQL);
+                sentencia.Parameters.Add("@codigocontacto", Int).Value = codigoContacto;
+                sentencia.ExecuteNonQuery();
+            }
+            catch (Exception)
+            {
+                throw ExcepcionSQL.crearErrorEliminar();
             }
         }
 
@@ -111,7 +128,7 @@ namespace Modelo.c4_persistencia.sqlserver
             {
                 List<Contacto> listacontacto = new List<Contacto>();
                 Contacto contacto = null;
-                string consultaSQL = "select top 4 codigocontacto,nombrecontacto,apellidoscontacto,empresacontacto,telefonocontacto,correocontacto,comentariocontacto,vistocontacto from contacto where vistocontacto=0";
+                string consultaSQL = "select top 4 codigocontacto,nombrecontacto,apellidoscontacto,empresacontacto,telefonocontacto,correocontacto,comentariocontacto,vistocontacto from contacto where vistocontacto=0 and estadocontacto = 1 ";
                 SqlDataReader resultado;
                 resultado = gestorODBC.ejecutarConsulta(consultaSQL);
                 while (resultado.Read())
@@ -142,7 +159,7 @@ namespace Modelo.c4_persistencia.sqlserver
             {
                 List<Contacto> listacontacto = new List<Contacto>();
                 Contacto contacto = null;
-                string consultaSQL = "SELECT codigocontacto, nombrecontacto, correocontacto, comentariocontacto, vistocontacto FROM contacto order by codigocontacto desc";
+                string consultaSQL = "SELECT codigocontacto, nombrecontacto, correocontacto, comentariocontacto, vistocontacto FROM contacto where  estadocontacto = 1 order by codigocontacto desc";
                 SqlDataReader resultado;
                 resultado = gestorODBC.ejecutarConsulta(consultaSQL);
                 while (resultado.Read())
